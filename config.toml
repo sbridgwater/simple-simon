@@ -68,17 +68,17 @@ search = true
 # about author
 author = "Simon Bridgwater"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "I’m a Freelance Musician based in Italy."
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+#mobile = "+90 000 333 22"
+email = "simon.bridgwater AT yahoo.it"
+address = "Brescia, Italy"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+#copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 
 # Instagram feed
 [params.instafeed]
