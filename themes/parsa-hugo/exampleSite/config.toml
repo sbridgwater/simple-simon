@@ -1,5 +1,5 @@
 # default config
-baseURL = "https://epic-rosalind-a49ed7.netlify.com/"
+baseURL = "https://examplesite.org"
 languageCode = "en-us"
 title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
