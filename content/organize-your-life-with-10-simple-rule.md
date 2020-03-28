@@ -5,7 +5,7 @@ description = "This is meta description"
 draft = true
 image = "images/featured-post/post-3.jpg"
 tags = ["Fashion"]
-title = "Organize Your Life With 10 Simple rule"
+title = "Organize Your Life With 10 Simple rule 2"
 type = "featured"
 
 +++
