@@ -64,7 +64,7 @@ description = "This is meta description"
 # Preloader
 preloader = true
 # search
-search = true
+search = false
 # about author
 author = "Simon Bridgwater"
 author_image = "images/banner-img.png"
