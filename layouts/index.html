@@ -2,13 +2,24 @@
 
 {{ if eq .Site.Params.layout "1" }}
 <!-- featured post -->
+	       <font size="4">
+		       <center>
+	       <i><p>Simple Simon met a pieman going to the fair. 
+	        <br/>Said Simple Simon to the pieman "let me taste your ware".
+		<br />Says the pieman to Simple Simon "let me see your penny".
+		<br/>Says Simple Simon to the pieman "indeed I have not any".</i>
+	       <h3>Enjoy<small> the music</small></h3>
+	       </font>
+	       <hr>
+		       </center>
+
 <section>
   <div class="container-fluid p-sm-0">
     <div class="row featured-post-slider">
       {{ range (where .Site.RegularPages "Type" "featured")}}
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
         <article class="card bg-dark text-center text-white border-0 rounded-0">
-          <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
+          <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" width="40" height="60" alt="post-thumb">
           <div class="card-img-overlay">
             <div class="card-content">
               <p class="text-uppercase">{{.Params.Categories}}</p>
@@ -21,6 +32,8 @@
       {{ end }}
     </div>
   </div>
+  </div>
+
 </section>
 <!-- /featured post -->
 
