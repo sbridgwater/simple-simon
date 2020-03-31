@@ -1,79 +1,57 @@
 ---
-title: "Gods on the Phone"
+title: "Free from the Day"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "draft"
-image: "images/featured-post/post-1.jpg"
+image: "images/featured/free.gif"
 categories: 
-  - "Valuable Idea"
+  - "Album"
 tags:
   - "Photos"
   - "Finance"
 ---
-{{< figure src="/lyrics_90x90.png" link="/album12">}}  
-
-#### ***_Creative_ _Commons_ _License_**   
-  
+{{< figure src="/audio_90x90.jpg" link="/album11">}}
 
 ---
 
-### **Politics and Faith**
-
-Politics and faith politics and faith and me   
-everything is fine  
-just trust in me i am the one for the righteous 
-i am the one how long must we wait  
-how long must we wait before everything is fine  
-it's all the same it's all the same   
-coming soon to the big screen   
-coming soon how long must we wait   
-a crowded room of hidden lies   
-where people speak about their lives    
-but surely not me its all the same   
-it's all the same coming soon to the big screen    
-coming soon to the big screen   
-how long must we wait how long can we wait    
-trust in me politics and faith politics and faith    
-and me and me and me and me   
-it's all the same it's all the same    
-coming soon on the big screen   
-coming soon on the big screen   
-
-### **Christianity Starts at Home**
-
-A ship in the night i can see the water high   
-who could tell them no would throw the first stone   
-they risk their lives for dreams   
-get to live in peace get to save our souls    
-get to smile again and cry like a new born child    
-get to save them all free them from their chains   
-and everybody has the right to live their lives   
-this is all the words say it all   
-christianity starts at home   
-and take our bombs and change them into food    
-and feed the starving crowd upon our lawn   
-don't let it drop don't turn away   
-help them up into another day a little rain    
-a little sun shining down to help that baby grow into a man   
-what's so wrong to help those that need to be helped   
-what's so wrong to help those that need to be helped   
-some day harmony tell them our homes and our food and   
-our culture our care are all to share   
-gods on the phone gods on the phone   
-
-#### **We Could Be**
-
-We could be heroes fighting for justice leading the way    
-you could be venus i could be famous   
-we could be all that we desire   
-admit it all it wouldn't harm   
-join in the fun we could be cold under a dark sky    
-waiting for god to make his move   
-we could be so out on a tight rope balanced by what we need    
-we could be saints i would be nothing without the pain   
-you could be happy i could be sad nothing would change what we had    
-a million laughs a million smiles under the sun   
-we could be heroes fighting for justice leading the way    
-you could be venus i could be famous we could be all that we desire   
-
-
+#### Free From The Day
+Get along and make your way. I need to get home soon.
+I feel a need to be with you. And talk about the chosen few.
+Free. I feel the wind in my hair and its getting back to you the primary goal.
+Forget about the day. Strip down and make it yours.
+I'll get around to talk to you. But now let me be free.
+I feel the air around my feet.
+Water in my eyes drying like mud in the daylight sun.
+And its so good to feel alive, to feel the sun, to reach to the sky
+And even if the world should end. I'll make it to your door.
+I wanna be with you to make things right.
+#### The Bus To Ragaton
+Gotta get big It's a perfect ride on the bus to ragaton
+and now it's time for fun Ale get sunny tonight,
+Ale -- it's madness with the light
+Beat goes crazy hear the passers by
+tapping on the door
+Never mind if they hear your maddened roar
+and now it's time for more
+The door bell rings and now it's time for more
+The door bell rings and now it's time for
+Colors ride in waves across the door
+up to the second floor
+madness in it's prime Ale
+get sunny tonight, Ale
+it's madness with the light
+Legs like heavy sharpened hanging stones
+lying in my bed the sound of crushing bone waits for the dead
+to lay me on their throne
+#### Born On A Sugar Field
+I can see you standing out of line.
+I can hear you walking out of time
+You're like a child a child who wants to play
+Your like the sun the sun on a foggy day.
+Born with a silver spoon on a sugarfield.
+You can say born by gods own hands.
+A feather in the wind blown to foreign lands.
+A fallen piece of gold a fairy tale untold.
+You've got me in your hold.
+Don't leave me out in the cold
+It looks like you were born .... born on a sugar field

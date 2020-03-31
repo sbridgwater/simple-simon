@@ -10,12 +10,14 @@ tags:
   - "Photos"
   - "Finance"
 ---
-{{< figure src="/lyrics_90x90.png" link="/lyrics13">}}
+{{< figure src="/lyrics_90x90.png" link="/lyrics/lyrics5">}}
+
 ---
 #### Tracks
+
 ###### The Fallen Sun
 {{< audio mp3="https://dl.dropboxusercontent.com/s/plq97vm0a5kpcbi/The_Fallen_Sun.mp3" >}}
-###### I could have
+###### I Could Have
 {{< audio mp3="https://dl.dropboxusercontent.com/s/m3sjasvyyo6o64r/i_could_have.mp3" >}}
 ###### Double Nonsense
 {{< audio mp3="https://dl.dropboxusercontent.com/s/6egs2hu49dymvf7/double_nonsense.mp3" >}}
