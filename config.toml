@@ -66,7 +66,7 @@ preloader = true
 # search
 search = false
 # about author
-author = "Simon Bridgwater"
+author = "sIMPLE sIMON"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Musician based in Italy."
 # Contact info
@@ -74,7 +74,7 @@ bio = "I’m a Freelance Musician based in Italy."
 email = "simon.bridgwater AT yahoo.it"
 address = "Brescia, Italy"
 # Contact Form Action
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/simon.bridgwater@yahoo.it"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
