@@ -11,7 +11,6 @@ tags:
   - "Finance"
 ---
 {{< figure src="/lyrics_90x90.png" link="/lyrics13">}}
-#### ***_Creative_ _Commons_ _License_**
 {{< audio mp3="https://dl.dropboxusercontent.com/s/nse8t59lvt3n7x5/Two_Sitting_Lemons.mp3" >}}
 {{< audio mp3="https://dl.dropboxusercontent.com/s/nse8t59lvt3n7x5/Two_Sitting_Lemons.mp3" >}}
 {{< audio mp3="https://dl.dropboxusercontent.com/s/nse8t59lvt3n7x5/Two_Sitting_Lemons.mp3" >}}
