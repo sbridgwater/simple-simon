@@ -1,7 +1,7 @@
 # default config
 baseURL = "https://simple-simon.onrender.com/"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Bridgwaters.net | Music"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
