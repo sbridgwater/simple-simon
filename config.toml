@@ -1,5 +1,5 @@
 # default config
-baseURL = "https://simple-simon.onrender.com/"
+baseURL = "https://www.bridgwaters.net/"
 languageCode = "en-us"
 title = "Bridgwaters.net | Music"
 theme = "parsa-hugo"

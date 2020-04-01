@@ -8,7 +8,7 @@ I call myself sIMPLE sIMON for three reasons.
 
 -	I am called Simon Bridgwater
 -	I think "_simple_" is "_beautiful_". (I have a degree in Physics and I truly believe that simplicity in mathematics is "_Beautiful_") 
--	I like the first verse of the nursery rhyme which in my opion has always emphasized the importance of doing for free.  
+-	I like the first verse of the nursery rhyme which in my opinion has always emphasized the importance of doing for free.  
    
 ---
 I learnt to play the guitar at University but I never got round to forming a band. Familiar with computers I started to experiment
