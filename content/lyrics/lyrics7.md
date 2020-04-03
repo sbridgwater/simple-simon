@@ -22,7 +22,7 @@ that vacant stare
 I wanna be ... with you
 Take your home and bring it to me
 Love ....
-I Have a Dream but it's Hurting Me
+#### I Have a Dream but it's Hurting Me
 I had a dream but I'm not too sure i've got the energy to make it come true I had a dream but
 I'm not too sure i can stick it I had a dream but I'm not too sure i can pick it
 Dreams shouldn't hurt you Dreams shouldn't hurt you I had a dream and it's hurting me bad I had a dream and it's hurting me bad

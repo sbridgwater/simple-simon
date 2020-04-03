@@ -17,7 +17,7 @@ tags:
 
 ###### Northside
 {{< audio mp3="https://dl.dropboxusercontent.com/s/p96wr2fph7bpgl2/Northside.mp3" >}}
-###### I Have a Dream and Its Hurting Me
+###### I Have a Dream but Its Hurting Me
 {{< audio mp3="https://dl.dropboxusercontent.com/s/7fkd020jrexc3mu/I_have_a_dream_but_its_hurting_me.mp3" >}}
 ###### Folly
 {{< audio mp3="https://dl.dropboxusercontent.com/s/51f2xiovhzwrfn5/Folly.mp3" >}}
